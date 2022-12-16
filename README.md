@@ -4,8 +4,6 @@
 
 I am a Data Scientist and Computer Vision Engineer at <a href="https://www.finbet.rs/#/home">Finbet</a>. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing, Machine Learning and Deep Learning. Beside that, I have two certificates in the field of databases. I have a B.Sc. in Electrical Engineering and Computing from Singidunum University and a M.Sc. in Data Science.
 
-<br />
-
 ## Technologies
 
 #### :hammer:  I’m currently working with ...
@@ -34,14 +32,6 @@ I am a Data Scientist and Computer Vision Engineer at <a href="https://www.finbe
 ![RESTAPI](https://img.shields.io/badge/RESTAPI-%20-green)
 
 <br />
-
-<details><summary>Some of my work</summary>
-<p>
-  
-![My work](mywork.jpg)
-  
-</p>
-</details>
 
 ## Contact me 📞 
 [![Linkedin Badge](https://img.shields.io/badge/-davorjordacevic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acvjetan/)](https://rs.linkedin.com/public-profile/in/davor-jorda%C4%8Devi%C4%87-899a34175?challengeId=AQG61DxdxBr5lQAAAXPp1FygP-mSP8Oexqofm0UVt4awtVGmUoJVwxXx4Tj-pRiLDHfbHXMT_xt2PjL7T-0SJwPrUaNHOy03ug&submissionId=13aed795-b4f2-2a16-5b06-60ab8c39d600)
