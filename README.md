@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Data Scientist and Computer Vision Engineer at <a href="https://www.finbet.rs/#/home">Finbet</a>. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing, Machine Learning and Deep Learning. Beside that, I have two certificates in the field of databases. I have a B.Sc. in Electrical Engineering and Computing from Singidunum University and a M.Sc. in Data Science.
+I am a Data Scientist and Computer Vision Engineer at <a href="https://www.finbet.rs/#/home">Finbet</a> and <a href="[https://www.finbet.rs/#/home](https://www.visionqueue.com/)">Vision Queue</a>. I started programming since elementary school, while on university I started working with Digital Signal Processing, Image Processing, Machine Learning and Deep Learning. Beside that, I have two certificates in the field of databases. I have a B.Sc. in Electrical Engineering and Computing from Singidunum University and a M.Sc. in Data Science.
 
 ## Technologies
 
